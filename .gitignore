@@ -17,6 +17,7 @@ Thumbs.db
 
 # Database (auto-created at runtime)
 Main App/data.db
+main_app/data.db
 data.db
 
 # Logs
