@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database (auto-created at runtime)
+Main App/data.db
+data.db
+
+# Logs
+*.log
+
+# Streamlit local config
+.streamlit/secrets.toml
